@@ -1,0 +1,4 @@
+# Module Operasi
+
+def kurang(a, b):
+    return a - b
